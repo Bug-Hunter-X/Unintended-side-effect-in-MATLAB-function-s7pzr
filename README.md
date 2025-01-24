@@ -1,0 +1,1 @@
+This repository contains a MATLAB function with a subtle bug causing unexpected behavior. The bug is an extra addition that affects the function's output. The solution demonstrates how to correct the bug.
